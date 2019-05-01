@@ -1,4 +1,2 @@
 asdghcccc b
-hello 
-Hello MAC
-Hello MAC-world twice!
+hello world, both Windows and MAC OS.
